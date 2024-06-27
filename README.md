@@ -48,9 +48,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-adhyan&show_icons=true&locale=en&layout=compact" alt="simply-adhyan" /></p>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simply-adhyan&show_icons=true&locale=en" alt="simply-adhyan" /></p>
+![Adhyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=simply-adhyan&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-adhyan&" alt="simply-adhyan" /></p></div>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-adhyan&theme=merko&show_icons=true&locale=en&layout=compact" alt="simply-adhyan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simply-adhyan&theme=gruvbox&show_icons=true&locale=en" alt="simply-adhyan" /></p>
